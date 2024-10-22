@@ -1,7 +1,7 @@
 #######################################################################################
-# Yourname:
-# Your student ID:
-# Your GitHub Repo: 
+# Yourname: Sahachindech Katedee
+# Your student ID: 65070232
+# Your GitHub Repo: https://github.com/Pikachu051/NPA2023-Final
 
 #######################################################################################
 # 1. Import libraries for API requests, JSON formatting, time, and (restconf_final or netconf_final).
